@@ -407,11 +407,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "ERC2401602-LCD-Adapter"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LCD_240x160_ERC240160FS.kicad_pro",
+    "filename": "ERC2401602-LCD-Adapter.kicad_pro",
     "version": 1
   },
   "net_settings": {

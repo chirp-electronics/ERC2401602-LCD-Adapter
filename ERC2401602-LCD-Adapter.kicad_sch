@@ -2044,7 +2044,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "H4") (unit 1)
         )
@@ -2073,7 +2073,7 @@
     (pin "1" (uuid f189e1e3-25c8-4baa-aabf-4e9afca55d84))
     (pin "2" (uuid 27bc9517-7606-426f-8980-0eb65fa8b2ad))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "C8") (unit 1)
         )
@@ -2110,7 +2110,7 @@
     (pin "7" (uuid 0ac81558-130e-4d74-a7ff-8995c312cb89))
     (pin "8" (uuid ca917986-aed5-4840-a561-9d66da6637d9))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "J6") (unit 1)
         )
@@ -2135,7 +2135,7 @@
     )
     (pin "1" (uuid 1d7d4558-d86b-4002-9c95-9b7668421842))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR02") (unit 1)
         )
@@ -2160,7 +2160,7 @@
     )
     (pin "1" (uuid b91e19f4-5b64-42e6-b5fa-92e86b6035c0))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR024") (unit 1)
         )
@@ -2189,7 +2189,7 @@
     (pin "1" (uuid 42159348-6341-47d2-b076-6dfa33ce0c51))
     (pin "2" (uuid 5aa3b2b3-2ca1-4d28-84c2-0befb93a4ee5))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "C1") (unit 1)
         )
@@ -2220,7 +2220,7 @@
     (pin "1" (uuid bb3117c8-586c-4464-91b0-0d3e8483bf56))
     (pin "2" (uuid 63534f9f-d4d0-46ed-8b2b-b5db9906ee9a))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "JP3") (unit 1)
         )
@@ -2257,7 +2257,7 @@
           (reference "R12") (unit 1)
         )
       )
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "R2") (unit 1)
         )
@@ -2287,7 +2287,7 @@
     )
     (pin "1" (uuid 2c0941ba-c224-4c8e-b647-8451bda1ee12))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR010") (unit 1)
         )
@@ -2312,7 +2312,7 @@
     )
     (pin "1" (uuid 7e93b084-83fe-44bc-a1a6-d58b848c08a6))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR06") (unit 1)
         )
@@ -2337,7 +2337,7 @@
     )
     (pin "1" (uuid 425381c6-fe86-4633-803e-d096c5527b69))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR03") (unit 1)
         )
@@ -2362,7 +2362,7 @@
     )
     (pin "1" (uuid 44b23a28-f996-4a41-93ad-8ead2f657d7c))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR016") (unit 1)
         )
@@ -2388,7 +2388,7 @@
     (pin "1" (uuid 60ce6e93-360e-492e-9163-404d6769288d))
     (pin "2" (uuid 7247ad17-23f3-4afb-9642-7f40ebd26d3f))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "JP6") (unit 1)
         )
@@ -2417,7 +2417,7 @@
     (pin "1" (uuid 35400338-d20a-4d80-8e07-2e742f7333c1))
     (pin "2" (uuid ecd83f93-6bf9-47ce-b0d5-c8cdbe3bba58))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "C2") (unit 1)
         )
@@ -2447,7 +2447,7 @@
     )
     (pin "1" (uuid 61c61beb-9607-4155-9910-0610c5ce5fff))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR023") (unit 1)
         )
@@ -2472,7 +2472,7 @@
     )
     (pin "1" (uuid a0965691-326a-4ce6-91f8-4cc56f76f9df))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR013") (unit 1)
         )
@@ -2501,7 +2501,7 @@
     (pin "1" (uuid 32a74909-4fed-4836-9f2f-89154ee87a33))
     (pin "2" (uuid 405e8e25-9ac6-416b-a493-0c0ab15980b3))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "C7") (unit 1)
         )
@@ -2535,7 +2535,7 @@
     (pin "1" (uuid 6bfb7592-7c21-42ed-b54a-174a33004dc0))
     (pin "2" (uuid 6adf7d71-0904-4de2-8ede-4090df6af4af))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "C3") (unit 1)
         )
@@ -2565,7 +2565,7 @@
     )
     (pin "1" (uuid cc6234f5-ea32-4106-8bfd-b5f2d1f49db0))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR017") (unit 1)
         )
@@ -2594,7 +2594,7 @@
     (pin "1" (uuid ac99306c-d046-4539-a683-2ceba5d1f7a2))
     (pin "2" (uuid 4ec8a759-28da-449d-b30d-950e6352018b))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "C4") (unit 1)
         )
@@ -2625,7 +2625,7 @@
     (pin "1" (uuid da467a63-ea3a-4315-842d-a867dcd5af00))
     (pin "2" (uuid 4d480ce6-ef59-4d4e-b0bd-e6dbb8ed9b82))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "JP1") (unit 1)
         )
@@ -2651,7 +2651,7 @@
     (pin "1" (uuid 08bef86b-54b7-4209-9c06-4ed20baa382b))
     (pin "2" (uuid 1a0ca50f-726b-4558-8dcb-680f407bbb4d))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "JP5") (unit 1)
         )
@@ -2676,7 +2676,7 @@
     )
     (pin "1" (uuid baf32f78-4132-4a51-a5a0-693ba8c774f4))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR019") (unit 1)
         )
@@ -2700,7 +2700,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "H3") (unit 1)
         )
@@ -2729,7 +2729,7 @@
     (pin "1" (uuid f8fb15ad-c5e7-4272-b42e-30549d954198))
     (pin "2" (uuid 7dd1d486-a938-473a-ae89-308b76f36594))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "J2") (unit 1)
         )
@@ -2778,7 +2778,7 @@
     (pin "8" (uuid 2ee43ad8-d8a4-4806-8834-2532487d0864))
     (pin "9" (uuid 9d4be720-407f-4e40-ab26-d59395736b86))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "J3") (unit 1)
         )
@@ -2803,7 +2803,7 @@
     )
     (pin "1" (uuid 8229a1fc-af6a-4f97-8c44-ed18a03b08c6))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR01") (unit 1)
         )
@@ -2828,7 +2828,7 @@
     )
     (pin "1" (uuid 6a1a1638-f04b-4230-8ac0-76ca506010af))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR08") (unit 1)
         )
@@ -2853,7 +2853,7 @@
     )
     (pin "1" (uuid 33b16e11-ee21-4bd5-9a62-02be8ed6d02d))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR021") (unit 1)
         )
@@ -2883,7 +2883,7 @@
           (reference "#PWR020") (unit 1)
         )
       )
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR018") (unit 1)
         )
@@ -2913,7 +2913,7 @@
     )
     (pin "1" (uuid f07b3c38-ae33-4156-bc80-afdf679f68d0))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR020") (unit 1)
         )
@@ -2945,7 +2945,7 @@
     (pin "7" (uuid e314f86f-6cf7-485c-8cf3-f022194a8835))
     (pin "8" (uuid 6c7d2b12-418c-4d5d-9e28-35ce619c53a4))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "J5") (unit 1)
         )
@@ -2970,7 +2970,7 @@
     )
     (pin "1" (uuid 48478250-ae8e-4da9-85e3-1153e920baeb))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR014") (unit 1)
         )
@@ -2994,7 +2994,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "H1") (unit 1)
         )
@@ -3019,7 +3019,7 @@
     )
     (pin "1" (uuid 03fc6103-5783-4084-8e98-2eed1630d58c))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR011") (unit 1)
         )
@@ -3071,7 +3071,7 @@
     (pin "8" (uuid 1cb0f128-25ae-4c68-97c5-b8ff409d8d96))
     (pin "9" (uuid 5e4d62fc-c23e-498e-8ec4-2c35db0a40d8))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "J1") (unit 1)
         )
@@ -3096,7 +3096,7 @@
     )
     (pin "1" (uuid 1a4cce06-ac30-45bc-8927-d5bf2f49a023))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR012") (unit 1)
         )
@@ -3122,7 +3122,7 @@
     (pin "1" (uuid 67032e75-1df0-418c-a28b-d05331b25cac))
     (pin "2" (uuid dc677600-e022-43be-9712-056330c19153))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "JP2") (unit 1)
         )
@@ -3147,7 +3147,7 @@
     )
     (pin "1" (uuid 87ffeac6-b02c-4082-84db-14f8322a10a5))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR022") (unit 1)
         )
@@ -3181,7 +3181,7 @@
           (reference "R12") (unit 1)
         )
       )
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "R1") (unit 1)
         )
@@ -3211,7 +3211,7 @@
     )
     (pin "1" (uuid af536ee0-1a2c-4153-9b56-0e872943ff44))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR07") (unit 1)
         )
@@ -3236,7 +3236,7 @@
     )
     (pin "1" (uuid 2ce02eb0-4204-43e3-b192-a92d1bba8664))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR04") (unit 1)
         )
@@ -3261,7 +3261,7 @@
     )
     (pin "1" (uuid 82cfa828-19df-4ee6-aa0e-00f9635f866b))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR015") (unit 1)
         )
@@ -3290,7 +3290,7 @@
     (pin "1" (uuid 016e409c-733a-408e-ba36-d48658c60da8))
     (pin "2" (uuid f1e75424-39a4-4c4f-9258-f86a2229291a))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "C6") (unit 1)
         )
@@ -3320,7 +3320,7 @@
     )
     (pin "1" (uuid 5a37f3d5-fdd5-4baf-900b-3d7e99d56344))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR05") (unit 1)
         )
@@ -3350,7 +3350,7 @@
           (reference "#PWR020") (unit 1)
         )
       )
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR025") (unit 1)
         )
@@ -3379,7 +3379,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "H2") (unit 1)
         )
@@ -3414,7 +3414,7 @@
           (reference "Q1") (unit 1)
         )
       )
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "Q1") (unit 1)
         )
@@ -3445,7 +3445,7 @@
     (pin "1" (uuid 92c1dee3-de1d-4989-aaab-9791ca024b05))
     (pin "2" (uuid 6d4ca721-9789-4d1c-a0dc-5f3e42c06850))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "JP4") (unit 1)
         )
@@ -3471,7 +3471,7 @@
     (pin "1" (uuid e4e5f9e5-5cb2-4f6b-be99-5d000ffae072))
     (pin "2" (uuid 60e8952d-efd5-47c3-ac04-61b7c19df561))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "J4") (unit 1)
         )
@@ -3500,7 +3500,7 @@
     (pin "1" (uuid 22fbc5f9-db84-45d4-a0af-db3eb08b0cee))
     (pin "2" (uuid 9cc4c35a-feae-4940-a0b8-a15f5e1df974))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "C5") (unit 1)
         )
@@ -3530,7 +3530,7 @@
     )
     (pin "1" (uuid 2ca4ce94-3eb8-4ae3-a369-fbab4aeaffe1))
     (instances
-      (project "LCD_240x160_ERC240160FS"
+      (project "ERC2401602-LCD-Adapter"
         (path "/9535f043-68ee-4a59-83da-b9da606aabea"
           (reference "#PWR09") (unit 1)
         )
